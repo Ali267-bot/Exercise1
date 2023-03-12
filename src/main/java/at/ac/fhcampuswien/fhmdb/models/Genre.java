@@ -37,5 +37,5 @@ public enum Genre {
 
     WAR,
 
-    WESTERN
+    ANIMATION, WESTERN
 }
